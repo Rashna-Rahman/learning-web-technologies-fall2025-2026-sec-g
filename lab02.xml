@@ -1,0 +1,15 @@
+
+<students>
+<student>
+<sl.no>23</sl.no>
+<Name>John Carter</Name>
+<admissiondate>25/12/1015</admissiondate>
+</student>
+
+<Phone>
+<ID>20</ID>
+<Name>HTC</Name>
+<unitPrice>65300</unitPrice>
+<stock>35</stock>
+<status>0</status>
+</Phone>
